@@ -12,7 +12,7 @@ django-debug-toolbar==0.11.0
 django-formtools
 django-localeurl>=2.0.2
 django-registration-redux>=1.3
-docutils
+docutils==0.16
 ipdb
 ipython
 ordereddict>=1.1
