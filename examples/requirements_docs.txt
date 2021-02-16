@@ -3,7 +3,7 @@ django-fobi
 Jinja2
 MarkupSafe
 MySQL-python
-mailchimp
+mailchimp==2.0.9
 Sphinx
 django-admin-tools>=0.5.2
 django-debug-toolbar>=0.11.0

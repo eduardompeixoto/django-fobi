@@ -3,7 +3,7 @@ Django>=1.8,<1.9
 
 Jinja2
 MarkupSafe
-mailchimp
+mailchimp==2.0.9
 #MySQL-python
 Sphinx
 django-admin-tools>=0.6.0
