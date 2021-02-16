@@ -1,7 +1,7 @@
 Django>=1.7,<1.8
 
 Jinja2
-MarkupSafe
+MarkupSafe==1.1.1
 #MySQL-python
 Sphinx
 django-admin-tools>=0.6.0
