@@ -4,7 +4,7 @@ Unidecode==0.04.18
 argparse==1.4.0
 django-autoslug==1.9.3
 django-fobi==0.5.17
-easy-thumbnails==2.2
+easy-thumbnails==2.7.1
 ipython==4.0.0
 ordereddict==1.1
 requests==2.8.1
