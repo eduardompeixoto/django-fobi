@@ -10,7 +10,7 @@ django-autoslug>=1.7.1
 django-debug-toolbar>=0.11.0
 django-localeurl>=2.0.2
 django-registration-redux>=1.1
-docutils
+docutils==0.16
 ipdb
 ipython
 ordereddict>=1.1
