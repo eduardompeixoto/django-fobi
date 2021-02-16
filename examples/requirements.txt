@@ -2,7 +2,7 @@ Django
 
 Jinja2
 MarkupSafe
-MySQL-python
+MySQL-python==1.2.5
 mailchimp
 #South
 Sphinx
