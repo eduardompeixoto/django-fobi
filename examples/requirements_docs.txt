@@ -1,6 +1,6 @@
 Django
 django-fobi
-Jinja2
+Jinja2==2.11.3
 MarkupSafe
 MySQL-python
 mailchimp
