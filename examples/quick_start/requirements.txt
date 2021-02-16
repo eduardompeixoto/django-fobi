@@ -2,7 +2,7 @@ Django==1.8.5
 Pillow==3.0.0
 Unidecode==0.04.18
 argparse==1.4.0
-django-autoslug==1.9.3
+django-autoslug==1.9.8
 django-fobi==0.5.17
 easy-thumbnails==2.2
 ipython==4.0.0
