@@ -3,7 +3,7 @@ Pillow==3.0.0
 Unidecode==0.04.18
 argparse==1.4.0
 django-autoslug==1.9.3
-django-fobi==0.5.17
+django-fobi==0.17.1
 easy-thumbnails==2.2
 ipython==4.0.0
 ordereddict==1.1
