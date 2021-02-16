@@ -1,7 +1,7 @@
 Django
 
 Jinja2
-MarkupSafe
+MarkupSafe==1.1.1
 MySQL-python
 mailchimp
 #South
