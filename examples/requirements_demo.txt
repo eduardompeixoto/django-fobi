@@ -1,4 +1,4 @@
-alabaster==0.7.6
+alabaster==0.7.12
 Babel==2.1.1
 decorator==4.0.4
 Django==1.9
