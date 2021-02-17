@@ -18,6 +18,6 @@ ordereddict>=1.1
 # Selenium shall always be upgraded
 selenium
 simple-timer>=0.2
-tox
+tox==3.22.0
 
 git+https://github.com/macropin/django-registration.git
