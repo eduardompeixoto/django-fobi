@@ -1,7 +1,7 @@
 django-cms==3.0.6
 #django-cms==2.4.1
 djangocms-picture
-djangocms-snippet
+djangocms-snippet==3.0.0
 djangocms-text-ckeditor
 django-mptt
 djangocms-admin-style
