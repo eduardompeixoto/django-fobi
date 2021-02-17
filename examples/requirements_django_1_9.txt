@@ -1,5 +1,5 @@
 alabaster==0.7.6
-Babel==2.1.1
+Babel==2.9.0
 decorator==4.0.4
 Django==1.9
 django-admin-tools>=0.7.1
