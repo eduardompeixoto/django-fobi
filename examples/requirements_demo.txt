@@ -20,7 +20,7 @@ Jinja2==2.8
 mailchimp==2.0.9
 MarkupSafe==0.23
 ordereddict==1.1
-path.py==8.1.2
+path.py==12.5.0
 pexpect==4.0.1
 pickleshare==0.5
 Pillow==3.0.0
