@@ -1,5 +1,5 @@
 Django
-django-fobi
+django-fobi==0.17.1
 Jinja2
 MarkupSafe
 MySQL-python
