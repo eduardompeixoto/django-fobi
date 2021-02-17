@@ -4,4 +4,4 @@ djangocms-picture
 djangocms-snippet
 djangocms-text-ckeditor
 django-mptt
-djangocms-admin-style
+djangocms-admin-style==2.0.2
