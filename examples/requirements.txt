@@ -19,4 +19,4 @@ ordereddict>=1.1
 # Selenium shall always be upgraded
 selenium
 simple-timer>=0.2
-tox
+tox==3.23.0
