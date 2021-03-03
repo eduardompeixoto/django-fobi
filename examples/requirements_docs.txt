@@ -12,7 +12,7 @@ django-localeurl>=2.0.2
 django-nine>=0.1.6
 #django-registration-redux>=1.3a0
 docutils
-ipdb
+ipdb==0.13.5
 ipython
 ordereddict>=1.1
 # Selenium shall always be upgraded
