@@ -1,2 +1,2 @@
-FeinCMS>=1.9,<1.11
+FeinCMS==1.19.0
 django-tinymce>=1.5.3
