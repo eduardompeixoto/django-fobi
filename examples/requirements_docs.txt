@@ -4,7 +4,7 @@ Jinja2
 MarkupSafe
 MySQL-python
 mailchimp
-Sphinx
+Sphinx==3.5.2
 django-admin-tools>=0.5.2
 django-debug-toolbar>=0.11.0
 django-formtools
