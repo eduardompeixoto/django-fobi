@@ -3,7 +3,7 @@ Django
 Jinja2
 MarkupSafe
 MySQL-python
-mailchimp
+mailchimp==2.0.10
 #South
 Sphinx
 django-admin-tools>=0.5.2
