@@ -12,7 +12,7 @@ django-debug-toolbar>=0.11.0
 django-localeurl>=2.0.2
 django-registration-redux>=1.1
 #django-simple-captcha
-docutils
+docutils==0.17
 ipdb
 ipython
 ordereddict>=1.1
