@@ -11,7 +11,7 @@ django-formtools
 django-localeurl>=2.0.2
 django-nine>=0.1.6
 #django-registration-redux>=1.3a0
-docutils
+docutils==0.17
 ipdb
 ipython
 ordereddict>=1.1
