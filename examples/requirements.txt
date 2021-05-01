@@ -14,7 +14,7 @@ django-registration-redux>=1.1
 #django-simple-captcha
 docutils
 ipdb
-ipython
+ipython==7.23.0
 ordereddict>=1.1
 # Selenium shall always be upgraded
 selenium
