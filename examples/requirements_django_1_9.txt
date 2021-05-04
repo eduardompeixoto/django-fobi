@@ -1,7 +1,7 @@
 alabaster==0.7.6
 Babel==2.1.1
 decorator==4.0.4
-Django==1.9
+Django==3.2.1
 django-admin-tools>=0.7.1
 django-autoslug==1.9.3
 django-debug-toolbar==0.11
