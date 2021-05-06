@@ -5,7 +5,7 @@ argparse==1.4.0
 django-autoslug==1.9.3
 django-fobi==0.5.17
 easy-thumbnails==2.2
-ipython==4.0.0
+ipython==7.23.1
 ordereddict==1.1
 requests==2.8.1
 six==1.10.0
