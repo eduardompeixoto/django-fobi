@@ -13,7 +13,7 @@ django-nine>=0.1.6
 #django-registration-redux>=1.3a0
 docutils
 ipdb
-ipython
+ipython==7.23.1
 ordereddict>=1.1
 # Selenium shall always be upgraded
 selenium
