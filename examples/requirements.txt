@@ -1,6 +1,6 @@
 Django
 
-Jinja2
+Jinja2==3.0.0
 MarkupSafe
 MySQL-python
 mailchimp

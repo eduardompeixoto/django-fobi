@@ -1,6 +1,6 @@
 Django>=1.6,<1.7
 
-Jinja2
+Jinja2==3.0.0
 MarkupSafe
 #MySQL-python
 Sphinx
