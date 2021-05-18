@@ -2,7 +2,7 @@
 Django>=1.8,<1.9
 
 Jinja2
-MarkupSafe
+MarkupSafe==2.0.1
 mailchimp
 #MySQL-python
 Sphinx
