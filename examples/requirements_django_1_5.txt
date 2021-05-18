@@ -1,6 +1,6 @@
 Django>=1.5,<1.6
 
-Jinja2
+Jinja2==3.0.1
 MarkupSafe
 #MySQL-python
 South>=0.8.2
