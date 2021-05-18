@@ -1,7 +1,7 @@
 Django>=1.5,<1.6
 
 Jinja2
-MarkupSafe
+MarkupSafe==2.0.1
 #MySQL-python
 South>=0.8.2
 Sphinx
