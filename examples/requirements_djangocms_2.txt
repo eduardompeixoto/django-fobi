@@ -1,2 +1,2 @@
-django-cms==2.4.3
+django-cms==3.9.0
 django-mptt
