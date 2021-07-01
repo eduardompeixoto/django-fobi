@@ -1,4 +1,4 @@
-Django>=1.7,<1.8
+Django==3.2.5
 
 Jinja2
 MarkupSafe
