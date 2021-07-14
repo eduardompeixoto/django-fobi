@@ -7,6 +7,6 @@ django-fobi==0.5.17
 easy-thumbnails==2.2
 ipython==4.0.0
 ordereddict==1.1
-requests==2.8.1
+requests==2.26.0
 six==1.10.0
 vishap==0.1.5
